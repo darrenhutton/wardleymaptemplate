@@ -11,6 +11,4 @@ A huge thanks to [Simon Wardley](https://twitter.com/swardley) for sharing his w
 - Free online tool here: http://www.wardleymaps.com/tool.html
 - Read: https://medium.com/wardleymaps
 
-![wardleymap](https://github.com/dwpdarren/wardleymaptemplate/blob/master/WardleyMapTemplate.jpg)
-
 ![wardleymap](/WardleyMapTemplate.jpg)
